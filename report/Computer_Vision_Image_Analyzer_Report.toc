@@ -1,0 +1,39 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}Problem Statement}{1}{section.2}%
+\contentsline {section}{\numberline {3}Project Objectives}{1}{section.3}%
+\contentsline {section}{\numberline {4}Scope and Target Users}{1}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Project Scope}{2}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Target Users}{2}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Functional Requirements}{2}{section.5}%
+\contentsline {section}{\numberline {6}Non-Functional Requirements}{2}{section.6}%
+\contentsline {section}{\numberline {7}Technologies Used}{3}{section.7}%
+\contentsline {section}{\numberline {8}System Architecture}{3}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Architectural Layers}{3}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Module Dependencies}{3}{subsection.8.2}%
+\contentsline {section}{\numberline {9}Detailed Module Descriptions}{4}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Input Validation Module}{4}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Face Detection Module}{4}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Image Analysis Module}{4}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}Quality Analysis Module}{4}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}Edge Detection Module}{4}{subsection.9.5}%
+\contentsline {section}{\numberline {10}Computer Vision Concepts Demonstrated}{4}{section.10}%
+\contentsline {section}{\numberline {11}Exception Handling Strategy}{5}{section.11}%
+\contentsline {section}{\numberline {12}Output Design and Persistence}{5}{section.12}%
+\contentsline {subsection}{\numberline {12.1}Output Artefacts}{5}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}Pipeline Flow}{5}{subsection.12.2}%
+\contentsline {section}{\numberline {13}Implementation Details}{5}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Input Validation Logic}{5}{subsection.13.1}%
+\contentsline {subsection}{\numberline {13.2}Haar Cascade Face Detection}{6}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Quality Assessment}{6}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}Canny Edge Detection}{7}{subsection.13.4}%
+\contentsline {section}{\numberline {14}Sample System Workflow}{7}{section.14}%
+\contentsline {section}{\numberline {15}Screenshots and Execution Evidence}{7}{section.15}%
+\contentsline {section}{\numberline {16}Testing and Verification}{12}{section.16}%
+\contentsline {subsection}{\numberline {16.1}Automated Test Suite Summary}{12}{subsection.16.1}%
+\contentsline {subsection}{\numberline {16.2}Manual Verification Matrix}{13}{subsection.16.2}%
+\contentsline {section}{\numberline {17}Challenges Faced and Solutions}{14}{section.17}%
+\contentsline {section}{\numberline {18}Key Learnings and Takeaways}{14}{section.18}%
+\contentsline {section}{\numberline {19}Limitations}{14}{section.19}%
+\contentsline {section}{\numberline {20}Future Enhancements}{14}{section.20}%
+\contentsline {section}{\numberline {21}References}{14}{section.21}%
+\contentsline {section}{\numberline {22}Conclusion}{15}{section.22}%

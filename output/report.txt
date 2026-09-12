@@ -1,24 +1,24 @@
 Computer Vision Analysis Report
 ===============================
 
-Input image: input/test.jpg
+Input image: input/image.jpeg
 
 1. Face Detection
 -----------------
-Faces detected: 1
+Faces detected: 3
 
 2. Image Analysis
 -----------------
-Width: 996 pixels
-Height: 1228 pixels
+Width: 1200 pixels
+Height: 1600 pixels
 Channels: 3
-Total pixels: 1223088
-Average brightness: 128.93
+Total pixels: 1920000
+Average brightness: 123.8
 
 3. Image Quality Analysis
 -------------------------
 Brightness status: Good
-Sharpness score: 362.07
+Sharpness score: 122.02
 Sharpness status: Sharp
 
 4. Edge Detection
